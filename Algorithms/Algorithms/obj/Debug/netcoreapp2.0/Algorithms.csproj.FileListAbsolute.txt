@@ -1,0 +1,11 @@
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.deps.json
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.json
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.dev.json
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.dll
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\bin\Debug\netcoreapp2.0\Algorithms.pdb
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csprojResolveAssemblyReference.cache
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.csproj.CoreCompileInputs.cache
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfoInputs.cache
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfo.cs
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.dll
+D:\data\code\csharp\school\dev-6\Algorithms\Algorithms\obj\Debug\netcoreapp2.0\Algorithms.pdb
