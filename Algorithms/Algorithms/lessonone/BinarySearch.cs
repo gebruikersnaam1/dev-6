@@ -19,10 +19,11 @@ namespace Algorithms.lessonone
         {
             List<int> n = GetArray();
             int low = 0; int high = n.Count; int middle;
-            int x = 1;
+            int x = 0;
             while(low <= high)
             {
                 middle = (low + high) / 2;
+                Console.WriteLine("After " + x + " low=" + low + " high=" + high + " middle= " + middle);
                 if (input < middle)
                     high = middle - 1;
                 else if (input > middle)
@@ -30,7 +31,6 @@ namespace Algorithms.lessonone
                 else
                     return "found " + input;
                 //this isn't needed
-                Console.WriteLine("After " + x + " low=" + low + " high="+high + " middle= " + middle);
                 x++;
             }
             return input + " not found";
