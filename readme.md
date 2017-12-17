@@ -1,6 +1,6 @@
 ﻿# DEV 6 A
 
-This algorithms where developed in order to understand the course I was following. 
+This code contains algorithms where developed in order to understand the course I was following. 
 
 ## Getting Started
 
