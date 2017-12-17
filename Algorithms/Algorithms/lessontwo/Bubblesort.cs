@@ -46,7 +46,7 @@ namespace Algorithms.lessontwo
             text = "De array had de volgende sortatie \n";
             text += SetArray(content);
             //Algorithm
-            for(int i = 0; i <= content.Count; i++)
+            for(int i = 1; i <= content.Count; i++)
             {
                 for (int j = (content.Count - 1); j > (i+ 1); j--)
                 {

@@ -27,6 +27,8 @@ namespace Algorithms
             Console.WriteLine(Insertionsort.InsertionSort());
             Console.WriteLine(CreateHeader("Bubble sort"));
             Console.WriteLine(Bubblesort.BubbleSort());
+            Console.WriteLine(CreateHeader("Merge sort"));
+            Console.WriteLine(Mergesort.MergeSort());
             Console.ReadLine();
         }
     }
