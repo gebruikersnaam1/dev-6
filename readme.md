@@ -1,6 +1,6 @@
 ﻿# DEV 6 A
 
-This code contains algorithms where developed in order to understand the course I was following. 
+A rough draft of my DEV 6 exercises. These exercises contain algorithms.
 
 ## Getting Started
 
