@@ -46,30 +46,33 @@ namespace Algorithms.lessontwo
             //split the array into two
             for( i = 1; i <= n1; i++) {
                 L[i] = A[p + i - 1];
-                Console.WriteLine("Debuglog l: " + L[i]);
+              //  Console.WriteLine("Debuglog l: " + L[i]);
             }
-            Console.WriteLine("\n");
+            //Console.WriteLine("\n");
             for ( j = 1; j < n2; j++)
             {
                 R[j] = A[q+j];
                 Console.WriteLine("Debuglog r: " + R[j]);
             }
-            Console.WriteLine("\n");
+            //Console.WriteLine("\n");
             i = 1;
+            R[5] = int.MinValue; //infinity
+            L[5] = int.MaxValue; //infinity
+            //Console.WriteLine(R[5]);
             j = 1;
             for (int k = p; k < r; k++)
             {
-                Console.WriteLine("Debuglog k value: "+" i= "+i+" j= "+j+"l = "+L[i]+ " r= "+ R[j]);
+                //Console.WriteLine("Debuglog k value: "+" i= "+i+" j= "+j+"l = "+L[i]+ " r= "+ R[j]);
                 if(L[i] <= R[j])
                 {
                     A[k] = L[i];
-                    Console.WriteLine("Debuglog if: l= " + L[i]);
+                  //  Console.WriteLine("Debuglog if: l= " + L[i]);
                     i += 1;
                 }
                 else
                 {
                     A[k] = R[j];
-                    Console.WriteLine("Debuglog else: r= " + R[j]);
+                    //Console.WriteLine("Debuglog else: r= " + R[j]);
                     j += 1;
                 }
             }
