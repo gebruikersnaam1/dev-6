@@ -41,24 +41,23 @@ namespace Algorithms.lessontwo
             int q =  (r / 2) -1;
             int n1 = q + 1;
             int n2 = r - q;
-            int[] L = new int[n1 + 10];
+            int[] L = new int[n1 + 2];
             int[] R = new int[n2 + 1];
             //split the array into two
             for( i = 1; i <= n1; i++) {
                 L[i] = A[p + i - 1];
-              //  Console.WriteLine("Debuglog l: " + L[i]);
+                //Console.WriteLine("Debuglog l: " + L[i]);
             }
             //Console.WriteLine("\n");
             for ( j = 1; j < n2; j++)
             {
                 R[j] = A[q+j];
-                Console.WriteLine("Debuglog r: " + R[j]);
+                //Console.WriteLine("Debuglog r: " + R[j]);
             }
             //Console.WriteLine("\n");
             i = 1;
-            R[5] = int.MinValue; //infinity
-            L[5] = int.MaxValue; //infinity
-            //Console.WriteLine(R[5]);
+            L[n1+1] = int.MaxValue; //infinity
+            R[n2] = int.MinValue; //infinity
             j = 1;
             for (int k = p; k < r; k++)
             {
