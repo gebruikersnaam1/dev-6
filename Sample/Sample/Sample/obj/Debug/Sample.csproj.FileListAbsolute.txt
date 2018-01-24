@@ -1,0 +1,24 @@
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Tester.dll
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\bin\Debug\Tester.xml
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\Sample\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Tester.dll
+C:\Users\malvo\Documents\GitHub\Exam-and-practicum-solutions-for-teachers\Development - 6\2017 - 2018\Assessment\SampleNoAnswers\Sample\Sample\bin\Debug\Tester.xml
+D:\data\code\csharp\school\dev-6\Sample\Sample\Sample\bin\Debug\Sample.exe.config
+D:\data\code\csharp\school\dev-6\Sample\Sample\Sample\bin\Debug\Sample.exe
+D:\data\code\csharp\school\dev-6\Sample\Sample\Sample\bin\Debug\Sample.pdb
+D:\data\code\csharp\school\dev-6\Sample\Sample\Sample\bin\Debug\Tester.dll
+D:\data\code\csharp\school\dev-6\Sample\Sample\Sample\bin\Debug\Tester.xml
+D:\data\code\csharp\school\dev-6\Sample\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+D:\data\code\csharp\school\dev-6\Sample\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+D:\data\code\csharp\school\dev-6\Sample\Sample\Sample\obj\Debug\Sample.exe
+D:\data\code\csharp\school\dev-6\Sample\Sample\Sample\obj\Debug\Sample.pdb
